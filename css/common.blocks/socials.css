@@ -1,0 +1,22 @@
+.socials__box {
+    display: flex;
+    gap: 8px;
+}
+
+.socials__icon {
+    fill: #d5d5d5;
+    width: 40px;
+    height: 40px;
+    transition: fill 0.4s ease-out 0s;
+}
+
+.socials__title {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+@media (pointer:fine) and (hover: hover) {
+    .socials__icon:hover {
+        fill: #37806B;
+    }
+}

@@ -1,0 +1,15 @@
+@import url(./vars.css);
+@import url(./reset.css);
+@import url(./fonts.css);
+@import url(./mix-class.css);
+@import url(./common.blocks/burger.css);
+@import url(./common.blocks/header.css);
+@import url(./common.blocks/nav.css);
+@import url(./common.blocks/main.css);
+@import url(./common.blocks/hero.css);
+@import url(./common.blocks/services.css);
+@import url(./common.blocks/about.css);
+@import url(./common.blocks/blog.css);
+@import url(./common.blocks/sign-up.css);
+@import url(./common.blocks/socials.css);
+@import url(./common.blocks/footer.css);
